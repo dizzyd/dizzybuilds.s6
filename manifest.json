@@ -187,11 +187,11 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Replanter",
    "fileID": 3382700,
    "projectID": 480657,
-   "required": true,
-   "clientOnly": true
+   "required": true
   },
   {
    "desc": "Ducts",
@@ -257,6 +257,12 @@
    "desc": "NoBreak",
    "fileID": 3414553,
    "projectID": 493911,
+   "required": true
+  },
+  {
+   "desc": "Patchouli (Fabric)",
+   "fileID": 3362818,
+   "projectID": 393236,
    "required": true
   }
  ],

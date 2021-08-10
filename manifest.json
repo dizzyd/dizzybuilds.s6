@@ -173,6 +173,90 @@
    "fileID": 3415032,
    "projectID": 419697,
    "required": true
+  },
+  {
+   "desc": "Wither Skeleton Totem",
+   "fileID": 3328167,
+   "projectID": 349850,
+   "required": true
+  },
+  {
+   "desc": "Animal Feeding Trough",
+   "fileID": 3343793,
+   "projectID": 445838,
+   "required": true
+  },
+  {
+   "desc": "Replanter",
+   "fileID": 3382700,
+   "projectID": 480657,
+   "required": true
+  },
+  {
+   "desc": "Ducts",
+   "fileID": 3382043,
+   "projectID": 400219,
+   "required": true
+  },
+  {
+   "desc": "Additional Enchanted Miner",
+   "fileID": 3420809,
+   "projectID": 282837,
+   "required": true
+  },
+  {
+   "desc": "Fabric Language Scala",
+   "fileID": 3392902,
+   "projectID": 309275,
+   "required": true
+  },
+  {
+   "desc": "Croptopia [FABRIC/FORGE]",
+   "fileID": 3418455,
+   "projectID": 415438,
+   "required": true
+  },
+  {
+   "desc": "Mo' Structures (Fabric)",
+   "fileID": 3409084,
+   "projectID": 378266,
+   "required": true
+  },
+  {
+   "desc": "Kibe Utilities",
+   "fileID": 3386714,
+   "projectID": 388832,
+   "required": true
+  },
+  {
+   "desc": "YUNG's Better Strongholds (Fabric)",
+   "fileID": 3412649,
+   "projectID": 480684,
+   "required": true
+  },
+  {
+   "desc": "YUNG's API (Fabric)",
+   "fileID": 3418763,
+   "projectID": 421649,
+   "required": true
+  },
+  {
+   "desc": "SlimeologyMC",
+   "fileID": 3378868,
+   "projectID": 486901,
+   "required": true
+  },
+  {
+   "desc": "Auto Config Updated API",
+   "fileID": 3095961,
+   "projectID": 373261,
+   "required": true
+  },
+  {
+   "desc": "NoBreak",
+   "fileID": 3414553,
+   "projectID": 493911,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",

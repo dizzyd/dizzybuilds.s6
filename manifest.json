@@ -190,7 +190,8 @@
    "desc": "Replanter",
    "fileID": 3382700,
    "projectID": 480657,
-   "required": true
+   "required": true,
+   "clientOnly": true
   },
   {
    "desc": "Ducts",

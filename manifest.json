@@ -1,0 +1,191 @@
+{
+ "files": [
+  {
+   "desc": "Lithium (Fabric)",
+   "fileID": 3380166,
+   "projectID": 360438,
+   "required": true
+  },
+  {
+   "desc": "Mod Menu",
+   "fileID": 3400185,
+   "projectID": 308702,
+   "required": true
+  },
+  {
+   "desc": "Reborn Core",
+   "fileID": 3398072,
+   "projectID": 237903,
+   "required": true
+  },
+  {
+   "desc": "Tech Reborn",
+   "fileID": 3398071,
+   "projectID": 233564,
+   "required": true
+  },
+  {
+   "desc": "Illuminations 🔥",
+   "fileID": 3401926,
+   "projectID": 292908,
+   "required": true
+  },
+  {
+   "desc": "Auth Me",
+   "fileID": 3345035,
+   "projectID": 356643,
+   "required": true
+  },
+  {
+   "desc": "Comforts (Fabric)",
+   "fileID": 3411304,
+   "projectID": 433539,
+   "required": true
+  },
+  {
+   "desc": "Lakeside",
+   "fileID": 3349232,
+   "projectID": 363707,
+   "required": true
+  },
+  {
+   "desc": "CleanView (Fabric)",
+   "fileID": 3381019,
+   "projectID": 375465,
+   "required": true
+  },
+  {
+   "desc": "DeepslateCutting",
+   "fileID": 3414459,
+   "projectID": 504899,
+   "required": true
+  },
+  {
+   "desc": "Universal Graves",
+   "fileID": 3387160,
+   "projectID": 497175,
+   "required": true
+  },
+  {
+   "desc": "Antique Atlas",
+   "fileID": 3392730,
+   "projectID": 227795,
+   "required": true
+  },
+  {
+   "desc": "Nature's Compass",
+   "fileID": 3404860,
+   "projectID": 252848,
+   "required": true
+  },
+  {
+   "desc": "Roughly Enough Items Fabric (REI)",
+   "fileID": 3381485,
+   "projectID": 310111,
+   "required": true
+  },
+  {
+   "desc": "FallingTree (Forge\u0026Fabric)",
+   "fileID": 3419542,
+   "projectID": 349559,
+   "required": true
+  },
+  {
+   "desc": "WTHIT",
+   "fileID": 3401714,
+   "projectID": 440979,
+   "required": true
+  },
+  {
+   "desc": "Art of Alchemy: Memoriam",
+   "fileID": 3395805,
+   "projectID": 415339,
+   "required": true
+  },
+  {
+   "desc": "Better Than Mending",
+   "fileID": 3213798,
+   "projectID": 264738,
+   "required": true
+  },
+  {
+   "desc": "Simple Backpack [FABRIC]",
+   "fileID": 3419121,
+   "projectID": 383999,
+   "required": true
+  },
+  {
+   "desc": "BetterEnd",
+   "fileID": 3390721,
+   "projectID": 413596,
+   "required": true
+  },
+  {
+   "desc": "BCLib",
+   "fileID": 3393260,
+   "projectID": 495191,
+   "required": true
+  },
+  {
+   "desc": "Charm",
+   "fileID": 3393290,
+   "projectID": 318872,
+   "required": true
+  },
+  {
+   "desc": "Adorn",
+   "fileID": 3401804,
+   "projectID": 320215,
+   "required": true
+  },
+  {
+   "desc": "FerriteCore (Fabric)",
+   "fileID": 3373736,
+   "projectID": 459857,
+   "required": true
+  },
+  {
+   "desc": "Cull Leaves",
+   "fileID": 3342334,
+   "projectID": 423254,
+   "required": true
+  },
+  {
+   "desc": "Immersive Travel Overhaul",
+   "fileID": 3408278,
+   "projectID": 460466,
+   "required": true
+  },
+  {
+   "desc": "Fabric API",
+   "fileID": 3419363,
+   "projectID": 306612,
+   "required": true
+  },
+  {
+   "desc": "Fabric Language Kotlin",
+   "fileID": 3394286,
+   "projectID": 308769,
+   "required": true
+  },
+  {
+   "desc": "Architectury API (Fabric)",
+   "fileID": 3415032,
+   "projectID": 419697,
+   "required": true
+  }
+ ],
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "modLoaders": [
+   {
+    "id": "fabric-0.11.6",
+    "primary": true
+   }
+  ],
+  "version": "1.17.1"
+ },
+ "name": "dizzybuilds.s6",
+ "version": "0.0.1"
+}

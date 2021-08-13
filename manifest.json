@@ -7,6 +7,7 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Mod Menu",
    "fileID": 3400185,
    "projectID": 308702,
@@ -14,23 +15,25 @@
   },
   {
    "desc": "Reborn Core",
-   "fileID": 3398072,
+   "fileID": 3424680,
    "projectID": 237903,
    "required": true
   },
   {
    "desc": "Tech Reborn",
-   "fileID": 3398071,
+   "fileID": 3424679,
    "projectID": 233564,
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Illuminations 🔥",
    "fileID": 3401926,
    "projectID": 292908,
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Auth Me",
    "fileID": 3345035,
    "projectID": 356643,
@@ -56,13 +59,13 @@
   },
   {
    "desc": "DeepslateCutting",
-   "fileID": 3414459,
+   "fileID": 3421976,
    "projectID": 504899,
    "required": true
   },
   {
    "desc": "Universal Graves",
-   "fileID": 3387160,
+   "fileID": 3422346,
    "projectID": 497175,
    "required": true
   },
@@ -80,7 +83,7 @@
   },
   {
    "desc": "Roughly Enough Items Fabric (REI)",
-   "fileID": 3381485,
+   "fileID": 3424130,
    "projectID": 310111,
    "required": true
   },
@@ -116,13 +119,13 @@
   },
   {
    "desc": "BetterEnd",
-   "fileID": 3390721,
+   "fileID": 3421221,
    "projectID": 413596,
    "required": true
   },
   {
    "desc": "BCLib",
-   "fileID": 3393260,
+   "fileID": 3423841,
    "projectID": 495191,
    "required": true
   },
@@ -145,6 +148,7 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Cull Leaves",
    "fileID": 3342334,
    "projectID": 423254,
@@ -254,6 +258,7 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "NoBreak",
    "fileID": 3414553,
    "projectID": 493911,
@@ -263,6 +268,60 @@
    "desc": "Patchouli (Fabric)",
    "fileID": 3362818,
    "projectID": 393236,
+   "required": true
+  },
+  {
+   "desc": "Xaero's World Map",
+   "fileID": 3396263,
+   "projectID": 317780,
+   "required": true
+  },
+  {
+   "desc": "Repurposed Structures (Fabric)",
+   "fileID": 3423261,
+   "projectID": 391366,
+   "required": true
+  },
+  {
+   "desc": "Promenade",
+   "fileID": 3346109,
+   "projectID": 399648,
+   "required": true
+  },
+  {
+   "desc": "Dawn API",
+   "fileID": 3403968,
+   "projectID": 399309,
+   "required": true
+  },
+  {
+   "desc": "Woods and Mires",
+   "fileID": 3349227,
+   "projectID": 391737,
+   "required": true
+  },
+  {
+   "desc": "Lapis Reserve",
+   "fileID": 3345208,
+   "projectID": 399679,
+   "required": true
+  },
+  {
+   "desc": "BackSlot",
+   "fileID": 3398685,
+   "projectID": 402739,
+   "required": true
+  },
+  {
+   "desc": "Resource Tools [FABRIC]",
+   "fileID": 3405902,
+   "projectID": 379040,
+   "required": true
+  },
+  {
+   "desc": "TrampleDisabler (Fabric)",
+   "fileID": 3381304,
+   "projectID": 439805,
    "required": true
   }
  ],

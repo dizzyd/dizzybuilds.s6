@@ -283,18 +283,6 @@
    "required": true
   },
   {
-   "desc": "Promenade",
-   "fileID": 3346109,
-   "projectID": 399648,
-   "required": true
-  },
-  {
-   "desc": "Dawn API",
-   "fileID": 3403968,
-   "projectID": 399309,
-   "required": true
-  },
-  {
    "desc": "Woods and Mires",
    "fileID": 3349227,
    "projectID": 391737,

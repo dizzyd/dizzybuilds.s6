@@ -311,6 +311,12 @@
    "fileID": 3381304,
    "projectID": 439805,
    "required": true
+  },
+  {
+   "desc": "EZ Pipes and Stuff (EZPaS)",
+   "fileID": 3419399,
+   "projectID": 381973,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",

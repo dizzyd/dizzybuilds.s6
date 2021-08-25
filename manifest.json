@@ -2,14 +2,14 @@
  "files": [
   {
    "desc": "Lithium (Fabric)",
-   "fileID": 3380166,
+   "fileID": 3438799,
    "projectID": 360438,
    "required": true
   },
   {
    "clientOnly": true,
    "desc": "Mod Menu",
-   "fileID": 3400185,
+   "fileID": 3431313,
    "projectID": 308702,
    "required": true
   },
@@ -28,7 +28,7 @@
   {
    "clientOnly": true,
    "desc": "Illuminations 🔥",
-   "fileID": 3401926,
+   "fileID": 3432753,
    "projectID": 292908,
    "required": true
   },
@@ -41,7 +41,7 @@
   },
   {
    "desc": "Comforts (Fabric)",
-   "fileID": 3411304,
+   "fileID": 3438164,
    "projectID": 433539,
    "required": true
   },
@@ -89,7 +89,7 @@
   },
   {
    "desc": "FallingTree (Forge\u0026Fabric)",
-   "fileID": 3419542,
+   "fileID": 3426088,
    "projectID": 349559,
    "required": true
   },
@@ -143,7 +143,7 @@
   },
   {
    "desc": "FerriteCore (Fabric)",
-   "fileID": 3373736,
+   "fileID": 3435174,
    "projectID": 459857,
    "required": true
   },
@@ -162,19 +162,19 @@
   },
   {
    "desc": "Fabric API",
-   "fileID": 3419363,
+   "fileID": 3439042,
    "projectID": 306612,
    "required": true
   },
   {
    "desc": "Fabric Language Kotlin",
-   "fileID": 3394286,
+   "fileID": 3439050,
    "projectID": 308769,
    "required": true
   },
   {
    "desc": "Architectury API (Fabric)",
-   "fileID": 3415032,
+   "fileID": 3436837,
    "projectID": 419697,
    "required": true
   },
@@ -191,7 +191,6 @@
    "required": true
   },
   {
-   "clientOnly": true,
    "desc": "Replanter",
    "fileID": 3382700,
    "projectID": 480657,
@@ -205,7 +204,7 @@
   },
   {
    "desc": "Additional Enchanted Miner",
-   "fileID": 3420809,
+   "fileID": 3426328,
    "projectID": 282837,
    "required": true
   },
@@ -229,7 +228,7 @@
   },
   {
    "desc": "Kibe Utilities",
-   "fileID": 3386714,
+   "fileID": 3424890,
    "projectID": 388832,
    "required": true
   },
@@ -241,7 +240,7 @@
   },
   {
    "desc": "YUNG's API (Fabric)",
-   "fileID": 3418763,
+   "fileID": 3433783,
    "projectID": 421649,
    "required": true
   },
@@ -260,7 +259,7 @@
   {
    "clientOnly": true,
    "desc": "NoBreak",
-   "fileID": 3414553,
+   "fileID": 3431692,
    "projectID": 493911,
    "required": true
   },
@@ -278,7 +277,7 @@
   },
   {
    "desc": "Repurposed Structures (Fabric)",
-   "fileID": 3423261,
+   "fileID": 3429490,
    "projectID": 391366,
    "required": true
   },
@@ -317,6 +316,41 @@
    "fileID": 3419399,
    "projectID": 381973,
    "required": true
+  },
+  {
+   "module": "dizzyd:simplethings:1.0.1@jar",
+   "url": "http://files.mcdex.net/maven2"
+  },
+  {
+   "desc": "Mining Dimensions [FABRIC]",
+   "fileID": 3408679,
+   "projectID": 442921,
+   "required": true
+  },
+  {
+   "desc": "Gear Reborn",
+   "fileID": 3427016,
+   "projectID": 418539,
+   "required": true
+  },
+  {
+   "desc": "Tax Free Levels",
+   "fileID": 3380785,
+   "projectID": 462128,
+   "required": true
+  },
+  {
+   "desc": "Mini Extras [Fabric]",
+   "fileID": 3384516,
+   "projectID": 412467,
+   "required": true
+  },
+  {
+   "desc": "Simple Measuring",
+   "fileID": 3331143,
+   "projectID": 419938,
+   "required": true,
+   "clientOnly": true
   }
  ],
  "manifestType": "minecraftModpack",

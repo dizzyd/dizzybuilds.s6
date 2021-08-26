@@ -191,6 +191,7 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Replanter",
    "fileID": 3382700,
    "projectID": 480657,
@@ -346,11 +347,17 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Simple Measuring",
    "fileID": 3331143,
    "projectID": 419938,
-   "required": true,
-   "clientOnly": true
+   "required": true
+  },
+  {
+   "desc": "Simple BC Pipes",
+   "fileID": 3343259,
+   "projectID": 318004,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",

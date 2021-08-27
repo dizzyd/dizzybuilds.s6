@@ -360,7 +360,7 @@
    "required": true
   },
   {
-   "module": "dizzyd:techreborn-fluid-compat:1.0.0@jar",
+   "module": "dizzyd:techreborn-fluid-compat:1.0.1@jar",
    "url": "http://files.mcdex.net/maven2"
   }
  ],

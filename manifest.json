@@ -358,6 +358,10 @@
    "fileID": 3343259,
    "projectID": 318004,
    "required": true
+  },
+  {
+   "module": "dizzyd:techreborn-fluid-compat:1.0.0@jar",
+   "url": "http://files.mcdex.net/maven2"
   }
  ],
  "manifestType": "minecraftModpack",

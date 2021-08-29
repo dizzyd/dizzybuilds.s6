@@ -319,7 +319,7 @@
    "required": true
   },
   {
-   "module": "dizzyd:simplethings:1.0.1@jar",
+   "module": "dizzyd:simplethings:1.0.2@jar",
    "url": "http://files.mcdex.net/maven2"
   },
   {

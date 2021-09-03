@@ -362,6 +362,12 @@
   {
    "module": "dizzyd:techreborn-fluid-compat:1.0.1@jar",
    "url": "http://files.mcdex.net/maven2"
+  },
+  {
+   "desc": "Building Wands",
+   "fileID": 3447315,
+   "projectID": 363392,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",

@@ -9,26 +9,14 @@
   {
    "clientOnly": true,
    "desc": "Mod Menu",
-   "fileID": 3431313,
+   "fileID": 3451992,
    "projectID": 308702,
-   "required": true
-  },
-  {
-   "desc": "Reborn Core",
-   "fileID": 3424680,
-   "projectID": 237903,
-   "required": true
-  },
-  {
-   "desc": "Tech Reborn",
-   "fileID": 3424679,
-   "projectID": 233564,
    "required": true
   },
   {
    "clientOnly": true,
    "desc": "Illuminations 🔥",
-   "fileID": 3432753,
+   "fileID": 3457015,
    "projectID": 292908,
    "required": true
   },
@@ -71,7 +59,7 @@
   },
   {
    "desc": "Antique Atlas",
-   "fileID": 3392730,
+   "fileID": 3446120,
    "projectID": 227795,
    "required": true
   },
@@ -83,19 +71,19 @@
   },
   {
    "desc": "Roughly Enough Items Fabric (REI)",
-   "fileID": 3424130,
+   "fileID": 3441625,
    "projectID": 310111,
    "required": true
   },
   {
    "desc": "FallingTree (Forge\u0026Fabric)",
-   "fileID": 3426088,
+   "fileID": 3458335,
    "projectID": 349559,
    "required": true
   },
   {
    "desc": "WTHIT",
-   "fileID": 3401714,
+   "fileID": 3453929,
    "projectID": 440979,
    "required": true
   },
@@ -113,7 +101,7 @@
   },
   {
    "desc": "Simple Backpack [FABRIC]",
-   "fileID": 3419121,
+   "fileID": 3447051,
    "projectID": 383999,
    "required": true
   },
@@ -137,7 +125,7 @@
   },
   {
    "desc": "Adorn",
-   "fileID": 3401804,
+   "fileID": 3460564,
    "projectID": 320215,
    "required": true
   },
@@ -162,7 +150,7 @@
   },
   {
    "desc": "Fabric API",
-   "fileID": 3439042,
+   "fileID": 3454922,
    "projectID": 306612,
    "required": true
   },
@@ -174,7 +162,7 @@
   },
   {
    "desc": "Architectury API (Fabric)",
-   "fileID": 3436837,
+   "fileID": 3443079,
    "projectID": 419697,
    "required": true
   },
@@ -205,7 +193,7 @@
   },
   {
    "desc": "Additional Enchanted Miner",
-   "fileID": 3426328,
+   "fileID": 3442663,
    "projectID": 282837,
    "required": true
   },
@@ -260,7 +248,7 @@
   {
    "clientOnly": true,
    "desc": "NoBreak",
-   "fileID": 3431692,
+   "fileID": 3457041,
    "projectID": 493911,
    "required": true
   },
@@ -278,13 +266,13 @@
   },
   {
    "desc": "Repurposed Structures (Fabric)",
-   "fileID": 3429490,
+   "fileID": 3449201,
    "projectID": 391366,
    "required": true
   },
   {
    "desc": "Woods and Mires",
-   "fileID": 3349227,
+   "fileID": 3441738,
    "projectID": 391737,
    "required": true
   },
@@ -302,7 +290,7 @@
   },
   {
    "desc": "Resource Tools [FABRIC]",
-   "fileID": 3405902,
+   "fileID": 3446649,
    "projectID": 379040,
    "required": true
   },
@@ -319,19 +307,13 @@
    "required": true
   },
   {
-   "module": "dizzyd:simplethings:1.0.3@jar",
+   "module": "dizzyd:simplethings:1.0.4@jar",
    "url": "http://files.mcdex.net/maven2"
   },
   {
    "desc": "Mining Dimensions [FABRIC]",
-   "fileID": 3408679,
+   "fileID": 3444390,
    "projectID": 442921,
-   "required": true
-  },
-  {
-   "desc": "Gear Reborn",
-   "fileID": 3427016,
-   "projectID": 418539,
    "required": true
   },
   {
@@ -361,6 +343,10 @@
   },
   {
    "module": "dizzyd:techreborn-fluid-compat:1.0.1@jar",
+   "url": "http://files.mcdex.net/maven2"
+  },
+  {
+   "module": "TechReborn:TechReborn:dz-20210916-e00e303594@jar",
    "url": "http://files.mcdex.net/maven2"
   }
  ],

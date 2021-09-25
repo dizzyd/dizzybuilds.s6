@@ -9,7 +9,7 @@
   {
    "clientOnly": true,
    "desc": "Mod Menu",
-   "fileID": 3451992,
+   "fileID": 3467353,
    "projectID": 308702,
    "required": true
   },
@@ -47,13 +47,13 @@
   },
   {
    "desc": "DeepslateCutting",
-   "fileID": 3421976,
+   "fileID": 3470402,
    "projectID": 504899,
    "required": true
   },
   {
    "desc": "Universal Graves",
-   "fileID": 3422346,
+   "fileID": 3468428,
    "projectID": 497175,
    "required": true
   },
@@ -77,13 +77,13 @@
   },
   {
    "desc": "FallingTree (Forge\u0026Fabric)",
-   "fileID": 3458335,
+   "fileID": 3469087,
    "projectID": 349559,
    "required": true
   },
   {
    "desc": "WTHIT",
-   "fileID": 3453929,
+   "fileID": 3467515,
    "projectID": 440979,
    "required": true
   },
@@ -138,7 +138,7 @@
   {
    "clientOnly": true,
    "desc": "Cull Leaves",
-   "fileID": 3342334,
+   "fileID": 3470922,
    "projectID": 423254,
    "required": true
   },
@@ -162,7 +162,7 @@
   },
   {
    "desc": "Architectury API (Fabric)",
-   "fileID": 3443079,
+   "fileID": 3468516,
    "projectID": 419697,
    "required": true
   },
@@ -193,7 +193,7 @@
   },
   {
    "desc": "Additional Enchanted Miner",
-   "fileID": 3442663,
+   "fileID": 3469926,
    "projectID": 282837,
    "required": true
   },
@@ -205,7 +205,7 @@
   },
   {
    "desc": "Croptopia [FABRIC/FORGE]",
-   "fileID": 3418455,
+   "fileID": 3462290,
    "projectID": 415438,
    "required": true
   },
@@ -217,7 +217,7 @@
   },
   {
    "desc": "Kibe Utilities",
-   "fileID": 3424890,
+   "fileID": 3467426,
    "projectID": 388832,
    "required": true
   },
@@ -266,7 +266,7 @@
   },
   {
    "desc": "Repurposed Structures (Fabric)",
-   "fileID": 3449201,
+   "fileID": 3469409,
    "projectID": 391366,
    "required": true
   },
@@ -346,7 +346,7 @@
    "url": "http://files.mcdex.net/maven2"
   },
   {
-   "module": "TechReborn:TechReborn:dz-20210917-0689af7c41@jar",
+   "module": "TechReborn:TechReborn:dz-20210925-14b94d3183@jar",
    "url": "http://files.mcdex.net/maven2"
   }
  ],

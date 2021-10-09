@@ -9,14 +9,14 @@
   {
    "clientOnly": true,
    "desc": "Mod Menu",
-   "fileID": 3467353,
+   "fileID": 3479750,
    "projectID": 308702,
    "required": true
   },
   {
    "clientOnly": true,
    "desc": "Illuminations 🔥",
-   "fileID": 3457015,
+   "fileID": 3484019,
    "projectID": 292908,
    "required": true
   },
@@ -29,7 +29,7 @@
   },
   {
    "desc": "Comforts (Fabric)",
-   "fileID": 3438164,
+   "fileID": 3483586,
    "projectID": 433539,
    "required": true
   },
@@ -47,7 +47,7 @@
   },
   {
    "desc": "DeepslateCutting",
-   "fileID": 3470402,
+   "fileID": 3473036,
    "projectID": 504899,
    "required": true
   },
@@ -77,13 +77,13 @@
   },
   {
    "desc": "FallingTree (Forge\u0026Fabric)",
-   "fileID": 3469087,
+   "fileID": 3476548,
    "projectID": 349559,
    "required": true
   },
   {
    "desc": "WTHIT",
-   "fileID": 3467515,
+   "fileID": 3480292,
    "projectID": 440979,
    "required": true
   },
@@ -150,19 +150,19 @@
   },
   {
    "desc": "Fabric API",
-   "fileID": 3454922,
+   "fileID": 3483909,
    "projectID": 306612,
    "required": true
   },
   {
    "desc": "Fabric Language Kotlin",
-   "fileID": 3439050,
+   "fileID": 3477154,
    "projectID": 308769,
    "required": true
   },
   {
    "desc": "Architectury API (Fabric)",
-   "fileID": 3468516,
+   "fileID": 3477576,
    "projectID": 419697,
    "required": true
   },
@@ -193,7 +193,7 @@
   },
   {
    "desc": "Additional Enchanted Miner",
-   "fileID": 3469926,
+   "fileID": 3478634,
    "projectID": 282837,
    "required": true
   },
@@ -217,19 +217,19 @@
   },
   {
    "desc": "Kibe Utilities",
-   "fileID": 3467426,
+   "fileID": 3476349,
    "projectID": 388832,
    "required": true
   },
   {
    "desc": "YUNG's Better Strongholds (Fabric)",
-   "fileID": 3412649,
+   "fileID": 3479839,
    "projectID": 480684,
    "required": true
   },
   {
    "desc": "YUNG's API (Fabric)",
-   "fileID": 3433783,
+   "fileID": 3479840,
    "projectID": 421649,
    "required": true
   },
@@ -254,7 +254,7 @@
   },
   {
    "desc": "Patchouli (Fabric)",
-   "fileID": 3362818,
+   "fileID": 3484543,
    "projectID": 393236,
    "required": true
   },
@@ -266,7 +266,7 @@
   },
   {
    "desc": "Repurposed Structures (Fabric)",
-   "fileID": 3469409,
+   "fileID": 3485283,
    "projectID": 391366,
    "required": true
   },
@@ -284,7 +284,7 @@
   },
   {
    "desc": "BackSlot",
-   "fileID": 3398685,
+   "fileID": 3476614,
    "projectID": 402739,
    "required": true
   },
@@ -312,7 +312,7 @@
   },
   {
    "desc": "Mining Dimensions [FABRIC]",
-   "fileID": 3444390,
+   "fileID": 3483513,
    "projectID": 442921,
    "required": true
   },
@@ -348,6 +348,36 @@
   {
    "module": "TechReborn:TechReborn:dz-20211006-e1d996c39d@jar",
    "url": "http://files.mcdex.net/maven2"
+  },
+  {
+   "desc": "Glassential (Fabric)",
+   "fileID": 3379046,
+   "projectID": 320778,
+   "required": true
+  },
+  {
+   "desc": "Deep Mob Learning: Refabricated",
+   "fileID": 3398554,
+   "projectID": 398614,
+   "required": true
+  },
+  {
+   "desc": "Modern Industrialization",
+   "fileID": 3453350,
+   "projectID": 405388,
+   "required": true
+  },
+  {
+   "desc": "ValleyCraft",
+   "fileID": 3483710,
+   "projectID": 527942,
+   "required": true
+  },
+  {
+   "desc": "Oxidized",
+   "fileID": 3453477,
+   "projectID": 506426,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",

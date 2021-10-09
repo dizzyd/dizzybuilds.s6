@@ -271,12 +271,6 @@
    "required": true
   },
   {
-   "desc": "Woods and Mires",
-   "fileID": 3441738,
-   "projectID": 391737,
-   "required": true
-  },
-  {
    "desc": "Lapis Reserve",
    "fileID": 3345208,
    "projectID": 399679,
@@ -368,15 +362,15 @@
    "required": true
   },
   {
-   "desc": "ValleyCraft",
-   "fileID": 3483710,
-   "projectID": 527942,
-   "required": true
-  },
-  {
    "desc": "Oxidized",
    "fileID": 3453477,
    "projectID": 506426,
+   "required": true
+  },
+  {
+   "desc": "Tom's Simple Storage Mod (Fabric)",
+   "fileID": 3479092,
+   "projectID": 396826,
    "required": true
   }
  ],

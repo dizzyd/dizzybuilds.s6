@@ -16,7 +16,7 @@
   {
    "clientOnly": true,
    "desc": "Illuminations 🔥",
-   "fileID": 3484019,
+   "fileID": 3489433,
    "projectID": 292908,
    "required": true
   },
@@ -53,7 +53,7 @@
   },
   {
    "desc": "Universal Graves",
-   "fileID": 3468428,
+   "fileID": 3494429,
    "projectID": 497175,
    "required": true
   },
@@ -71,19 +71,19 @@
   },
   {
    "desc": "Roughly Enough Items Fabric (REI)",
-   "fileID": 3441625,
+   "fileID": 3500031,
    "projectID": 310111,
    "required": true
   },
   {
    "desc": "FallingTree (Forge\u0026Fabric)",
-   "fileID": 3476548,
+   "fileID": 3506292,
    "projectID": 349559,
    "required": true
   },
   {
    "desc": "WTHIT",
-   "fileID": 3480292,
+   "fileID": 3497888,
    "projectID": 440979,
    "required": true
   },
@@ -125,7 +125,7 @@
   },
   {
    "desc": "Adorn",
-   "fileID": 3460564,
+   "fileID": 3495524,
    "projectID": 320215,
    "required": true
   },
@@ -138,7 +138,7 @@
   {
    "clientOnly": true,
    "desc": "Cull Leaves",
-   "fileID": 3470922,
+   "fileID": 3496538,
    "projectID": 423254,
    "required": true
   },
@@ -150,7 +150,7 @@
   },
   {
    "desc": "Fabric API",
-   "fileID": 3483909,
+   "fileID": 3494349,
    "projectID": 306612,
    "required": true
   },
@@ -162,7 +162,7 @@
   },
   {
    "desc": "Architectury API (Fabric)",
-   "fileID": 3477576,
+   "fileID": 3500017,
    "projectID": 419697,
    "required": true
   },
@@ -217,7 +217,7 @@
   },
   {
    "desc": "Kibe Utilities",
-   "fileID": 3476349,
+   "fileID": 3491173,
    "projectID": 388832,
    "required": true
   },
@@ -266,7 +266,7 @@
   },
   {
    "desc": "Repurposed Structures (Fabric)",
-   "fileID": 3485283,
+   "fileID": 3498266,
    "projectID": 391366,
    "required": true
   },
@@ -278,13 +278,13 @@
   },
   {
    "desc": "BackSlot",
-   "fileID": 3476614,
+   "fileID": 3504133,
    "projectID": 402739,
    "required": true
   },
   {
    "desc": "Resource Tools [FABRIC]",
-   "fileID": 3446649,
+   "fileID": 3489587,
    "projectID": 379040,
    "required": true
   },
@@ -357,7 +357,7 @@
   },
   {
    "desc": "Modern Industrialization",
-   "fileID": 3453350,
+   "fileID": 3504424,
    "projectID": 405388,
    "required": true
   },
@@ -371,6 +371,42 @@
    "desc": "Tom's Simple Storage Mod (Fabric)",
    "fileID": 3479092,
    "projectID": 396826,
+   "required": true
+  },
+  {
+   "desc": "Kelp Fertilizer (Fabric)",
+   "fileID": 3502171,
+   "projectID": 539824,
+   "required": true
+  },
+  {
+   "desc": "Collective (Fabric)",
+   "fileID": 3506232,
+   "projectID": 526606,
+   "required": true
+  },
+  {
+   "desc": "Platforms [Fabric]",
+   "fileID": 3496259,
+   "projectID": 536610,
+   "required": true
+  },
+  {
+   "desc": "ShetiPhianCore [Fabric]",
+   "fileID": 3496251,
+   "projectID": 536603,
+   "required": true
+  },
+  {
+   "desc": "Chalk (Fabric)",
+   "fileID": 3498199,
+   "projectID": 535541,
+   "required": true
+  },
+  {
+   "desc": "Golden Netherite",
+   "fileID": 3494547,
+   "projectID": 537878,
    "required": true
   }
  ],
